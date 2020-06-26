@@ -41,11 +41,6 @@
       ".js",
       ".vue"
     ],
-    "exclude": [
-      "webpack.config.js",
-      "components/**/*.js",
-      "test/**"
-    ],
     "reporter": [
       "text",
       "text-summary",
